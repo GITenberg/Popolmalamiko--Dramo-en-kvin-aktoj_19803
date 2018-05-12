@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: 'Translation of: En Folkefiende'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19803#Popolmalamiko--Dramo-en-kvin-aktoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2006-11-14'
 gutenberg_type: Text
